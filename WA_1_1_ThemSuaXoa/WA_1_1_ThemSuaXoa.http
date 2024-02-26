@@ -1,0 +1,6 @@
+@WA_1_1_ThemSuaXoa_HostAddress = http://localhost:5204
+
+GET {{WA_1_1_ThemSuaXoa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

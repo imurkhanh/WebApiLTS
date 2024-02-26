@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WA_1_1_ThemSuaXoa.props" />
+</Project>
